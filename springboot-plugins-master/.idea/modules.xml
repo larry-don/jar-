@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/plugins-app/plugins-app.iml" filepath="$PROJECT_DIR$/plugins-app/plugins-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins-common/plugins-common.iml" filepath="$PROJECT_DIR$/plugins-common/plugins-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins-jar/plugins-jar.iml" filepath="$PROJECT_DIR$/plugins-jar/plugins-jar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins-weixin/plugins-weixin.iml" filepath="$PROJECT_DIR$/plugins-weixin/plugins-weixin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins-zhifubao/plugins-zhifubao.iml" filepath="$PROJECT_DIR$/plugins-zhifubao/plugins-zhifubao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-plugins.iml" filepath="$PROJECT_DIR$/springboot-plugins.iml" />
+    </modules>
+  </component>
+</project>

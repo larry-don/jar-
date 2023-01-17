@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="plugins-zhifubao" />
+        <module name="plugins-app" />
+        <module name="plugins-weixin" />
+        <module name="plugins-jar" />
+        <module name="plugins-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="plugins-app" target="1.8" />
+      <module name="plugins-common" target="1.8" />
+      <module name="plugins-jar" target="1.8" />
+      <module name="plugins-weixin" target="1.8" />
+      <module name="plugins-zhifubao" target="1.8" />
+      <module name="springboot-plugins" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
